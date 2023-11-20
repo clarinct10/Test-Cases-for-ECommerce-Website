@@ -1,4 +1,4 @@
-## Test-Cases-for-ECommerce-Website ( Quality Assurance Manual Testing )
+## Test-Cases-for-Website ( Quality Assurance Manual Testing )
 E-commerce websites adalah situs web yang kompleks dengan kategorisasi produk dari berbagai macam layanan dan integrasi pembayaran.
 #### Features and list the test cases for eCommerce website
 ### Login/Registration test cases for Website
