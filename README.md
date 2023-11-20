@@ -1,7 +1,7 @@
 ## Test-Cases-for-ECommerce-Website ( Quality Assurance Manual Testing )
 E-commerce websites adalah situs web yang kompleks dengan kategorisasi produk dari berbagai macam layanan dan integrasi pembayaran.
 #### Features and list the test cases for eCommerce website
-### Login/Registration test cases for Tokopedia Website
+### Login/Registration test cases for Website
 * Test for valid/invalid username and password
 * Test for valid/invalid phone number and email
 * Test Register by Google Account
